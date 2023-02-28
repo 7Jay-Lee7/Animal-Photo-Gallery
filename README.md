@@ -33,4 +33,4 @@ This repository is licensed under the MIT license. You can use the code for pers
 
 ## Credits
 
-This website was created by Jay Lee and inspired by [Freecodecamp](https://www.freecodecamp.org/learn). If you have any questions or comments, please feel free to contact me.
+This website was created by Jay Lee and inspired by [Freecodecamp](https://www.freecodecamp.org/learn){:target="_blank"}. If you have any questions or comments, please feel free to contact me.
