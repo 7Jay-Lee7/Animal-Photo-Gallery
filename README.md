@@ -11,7 +11,7 @@ To use this repository, you can either fork it or clone it using Git. Here are t
 
 2. Type the following command and press Enter:
 
-git clone https://github.com/7Jay-Lee7/animal-photo-gallery.git{:target="_blank"}*
+git clone https://github.com/7Jay-Lee7/animal-photo-gallery.git{target="_blank"}
 
 3. Once the repository is cloned, you can open the index.html file in your web browser to view the website.
 
@@ -33,4 +33,4 @@ This repository is licensed under the MIT license. You can use the code for pers
 
 ## Credits
 
-This website was created by Jay Lee and inspired by [Freecodecamp](https://www.freecodecamp.org/learn){:target="_blank"}*. If you have any questions or comments, please feel free to contact me.
+This website was created by Jay Lee and inspired by [Freecodecamp](https://www.freecodecamp.org/learn){target="_blank"}. If you have any questions or comments, please feel free to contact me.
