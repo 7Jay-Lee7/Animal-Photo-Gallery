@@ -11,7 +11,7 @@ To use this repository, you can either fork it or clone it using Git. Here are t
 
 2. Type the following command and press Enter:
 
-git clone https://github.com/7Jay-Lee7/animal-photo-gallery.git
+git clone https://github.com/7Jay-Lee7/animal-photo-gallery.git{:target="_blank"}
 
 3. Once the repository is cloned, you can open the index.html file in your web browser to view the website.
 
